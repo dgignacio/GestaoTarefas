@@ -1,0 +1,11 @@
+@GestaoTarefas.api_HostAddress = http://localhost:5207
+
+GET {{GestaoTarefas.api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{GestaoTarefas.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

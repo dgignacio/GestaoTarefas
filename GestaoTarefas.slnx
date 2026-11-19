@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="GestaoTarefas.api/GestaoTarefas.Api.csproj" />
+  <Project Path="GestaoTarefas.Tests/GestaoTarefas.Tests.csproj" />
+</Solution>
